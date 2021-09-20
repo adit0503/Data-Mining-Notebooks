@@ -2,7 +2,6 @@ import configparser
 
 from tweepy import OAuthHandler, API
 
-class
 
 
 if __name__ == "__main__":
